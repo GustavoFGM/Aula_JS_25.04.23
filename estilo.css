@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(to right, gold,rgb(0, 0, 0), rgb(240, 134, 14))
+}
+
+#image{
+    width: 1000px;
+    height: 600px;
+}
+
+
+.image{
+    display: flex;
+    justify-content: center;
+}
+
